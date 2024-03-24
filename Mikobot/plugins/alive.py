@@ -1,6 +1,6 @@
 # SOURCE https://github.com/Team-ProjectCodeX
-# CREATED BY https://t.me/O_okarma
-# PROVIDED BY https://t.me/ProjectCodeX
+# CREATED BY https://t.me/MR_NARU
+# PROVIDED BY https://t.me/BROKENSHAYRI1
 
 # <============================================== IMPORTS =========================================================>
 import random
@@ -34,7 +34,7 @@ async def alive(_, message: Message):
     caption = f"""**HEY, I AM {BOT_NAME}**
 
 ━━━━━━ 🌟✿🌟 ━━━━━━
-✪ **CREATOR:** [🄺🄰🅁🄼🄰](https://t.me/anime_Freakz)
+✪ **CREATOR:** [🄽🄰🅁🅄](https://t.me/MR_NARU)
 
 {library_versions_text}
 
