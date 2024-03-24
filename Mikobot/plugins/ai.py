@@ -1,4 +1,4 @@
-# CREATED BY: https://t.me/O_oKarma
+# CREATED BY: https://t.me/MR_NARU
 # API CREDITS: @Qewertyy
 # PROVIDED BY: https://github.com/Team-ProjectCodeX
 
