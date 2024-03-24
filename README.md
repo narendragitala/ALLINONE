@@ -70,7 +70,7 @@ python3 -m Mikobot         # 8. Run the Bot
 <p align="center">Click the button below to deploy YAE ダ MIKO on Heroku and enjoy its enhanced features and user-friendly interface!</p>
 
 <p align="center">
-    <a href="https://heroku.com/deploy?template=https://github.com/Infamous-Hydra/YaeMiko">
+    <a href="https://heroku.com/deploy?template=https://github.com/narendragitala/ALLINONE">
         <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
     </a>
 </p>
@@ -83,6 +83,6 @@ python3 -m Mikobot         # 8. Run the Bot
 + [TheHamkerCat](https://github.com/TheHamkerCat) > Python-Arq
 + [ProjectCodeX](https://github.com/Team-ProjectCodeX) > Modules
 
-Others in the commit history and files. If anything is missing, feel free to  [![gmail](https://img.shields.io/badge/mail-Here-red?style=for-the-badge&logo=gmail)](mailto:makandu2054@gmail.com)  or submit a pull request.
+Others in the commit history and files. If anything is missing, feel free to  [![gmail](https://img.shields.io/badge/mail-Here-red?style=for-the-badge&logo=gmail)](mailto:narendragitala9521@gmail.com)  or submit a pull request.
 
-> Try this bot [@MIKO_V2BOT](https://t.me/MIKO_V2BOT); it's made with this repository for demonstration purposes.
+> Try this bot [@MIKO_V2BOT](https://t.me/nayramusic_bot); it's made with this repository for demonstration purposes.
