@@ -50,7 +50,7 @@
       },
       "DATABASE_URL": {
          "description": "Required for SQL database connections.",
-         "required": true,
+         "required": false,
          "value": "postgres://"
       },
       "OWNER_ID": {
@@ -99,7 +99,7 @@
       },
       "DB_NAME": {
          "description": "Your MongoDB name.",
-         "required": true,
+         "required": false,
          "value": ""
       },
       "TOKEN": {
